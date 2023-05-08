@@ -1,8 +1,8 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "masterpiece, best quality,\n\n,delicate, beautiful,colorful, vividcolor, lighting,\n",
+    "txt2img/Prompt/value": "(masterpiece, best quality, highres), (realistic), view from side, close-up, fisheye, buildings, 1girl, mermaid, kneeling, on one knee, breasts squeezed together, (white cocktail dress), (bare legs), (entangled:1.17), (lace trim:1.11), grin, huge breasts, (long green hair), light blue eyes, hairband, pearl necklace, stud earrings, jewelry, ultra detailed, 8k, ",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "",
+    "txt2img/Negative prompt/value": "watermark, sketches, lowres, (worst quality, bad quality, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8), (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8), (bad_quality:0.8)",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "CounterFeit模型专用"
@@ -10,7 +10,7 @@
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "DPM++ 2M Karras",
     "txt2img/Sampling steps/visible": true,
-    "txt2img/Sampling steps/value": 24,
+    "txt2img/Sampling steps/value": 32,
     "txt2img/Sampling steps/minimum": 1,
     "txt2img/Sampling steps/maximum": 555,
     "txt2img/Sampling steps/step": 1,
@@ -25,7 +25,7 @@
     "txt2img/Height/maximum": 2048,
     "txt2img/Height/step": 8,
     "txt2img/Batch count/visible": true,
-    "txt2img/Batch count/value": 1,
+    "txt2img/Batch count/value": 4,
     "txt2img/Batch count/minimum": 1,
     "txt2img/Batch count/maximum": 200,
     "txt2img/Batch count/step": 1,
