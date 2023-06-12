@@ -140,7 +140,7 @@
     "tac_activeIn.img2img": true,
     "tac_activeIn.negativePrompts": true,
     "tac_activeIn.thirdParty": true,
-    "tac_maxResults": 5.0,
+    "tac_maxResults": 10.0,
     "tac_showAllResults": true,
     "tac_resultStepLength": 100.0,
     "tac_delayTime": 100.0,
