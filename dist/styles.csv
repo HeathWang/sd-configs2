@@ -1,0 +1,3 @@
+name,prompt,negative_prompt
+Default,"1girl, jewelry, masterpiece, best quality, absurdres, ultra detailed, 8k,","(watermark), sketches, lowres, (worst quality, bad quality, cropped, monochrome), (grayscale:1.2), (bad-hands-5:1.0), (EasyNegative:0.8), (bad-artist:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8), (bad-image-v2-39000:0.8), (ng_deepnegative_v1_75t:0.8), (bad_quality:0.8),"
+animateDiff,"1girl, jewelry, masterpiece, best quality, absurdres, ultra detailed, 8k,","(watermark), sketches, lowres, (worst quality, bad quality, cropped, monochrome), (grayscale:1.2), (bad-hands-5:1.0), (EasyNegative:0.8), (bad_quality:0.8),"
